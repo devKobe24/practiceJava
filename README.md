@@ -1,6 +1,7 @@
 # Java Study
 
-> `'김영한 강사님'`의 `'자바 입문 - 코드로 시작하는 자바 첫걸음'` 강의 성장로그 입니다.
+> `'김영한 강사님'`의 `'자바 입문 - 코드로 시작하는 자바 첫걸음'` 강의 성장로그 입니다.<br>
+> This is a growth log for the lecture `Introduction to Java - First Steps with Code` by Instructor `Kim Young-Han`.
 
 ## 목차 📚
 
