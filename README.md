@@ -28,6 +28,7 @@
 | 23.02.03(토) | 비교 연산자, 논리 연산자, 대입 연산자, 문제 풀이, if문, else문, else-if문, Switch문과 Java 14의 새로운 Switch문 학습. |
 | 23.02.04(일) | 삼항 연산자, 조건문 문제와 풀이1, 문제와 풀이2 |
 | 23.02.05(월) | while문, do-while문, continue, break, for문 학습. |
+| 23.02.06(화) | for문, 중첩 반복문 학습. |
 
 ## 📑 참고자료
 - [김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8)
