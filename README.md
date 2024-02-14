@@ -16,7 +16,7 @@
 | [<img src="https://hackmd.io/_uploads/SJEQuLsEh.png" width="20"/> **Kobe**](https://www.devkobe24.com/) |
 
 ## ⏰ 스터디 기간
-스터디 진행 기간 | 23.01.30 ~
+스터디 진행 기간 | 23.01.30 ~ 23.02.15
 
 ## 🆙 성장 로그
 | 날짜 | 진행 상황 | 
